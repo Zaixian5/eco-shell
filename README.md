@@ -76,7 +76,7 @@ $ exit
             <li>-h: 도움말</li>
         </ul>
 </ol>
-<h4>4. 팀구성</h4>
+<h3>4. 팀구성</h3>
         <ul>
             <li>사재헌 - 깃허브 아이디: Zaixian5</li>
             <li>이준혁 - 깃허브 아이디: visualnnz</li>
