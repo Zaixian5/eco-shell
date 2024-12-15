@@ -1,4 +1,4 @@
-# src/main.c src/run_shell.c src/execute_command.c src/run_process.c src/power.c src/fclean.c src/pclean.c src/ecomode.c
+# src/main.c src/run_shell.c src/execute_command.c src/run_process.c src/power.c src/fclean.c src/pclean.c src/time.c
 
 CC = gcc
 CFLAGS = -Wall -Iinclude
