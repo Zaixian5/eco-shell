@@ -17,11 +17,12 @@ eco-shell/<br>
 ├── src/<br>
 │   ├── main.c<br>
 │   ├── run_shell.c<br>
-│   ├── command.c<br>
+│   ├── execute_command.c<br>
 │   ├── run_process.c<br>
 │   ├── fclean.c<br>
 │   ├── pclean.c<br>
-│   └── power.c<br>
+│   ├── power.c<br>
+│   └── time.c<br>
 ├── Makefile<br>
 └── README.md<br>
 
