@@ -1,11 +1,5 @@
 // command.c
 
-/*
-    TODO
-    특수 명령어에는 환경 친화적 기능 명령어 함수가 들어가야 함
-    프로세스 정리, 파일 정리, 에코모드 구현하기
-*/
-
 #include <stdio.h>
 #include <string.h>
 
